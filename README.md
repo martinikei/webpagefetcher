@@ -26,7 +26,7 @@ Navigate to the directory and then run:
 
 **Then you can run this from your container using this:**
 
-`docker run --rm webpagefetcher rails fetch_pages:fetch URLS="https://example.com/,https://example.com""`
+`docker run --rm webpagefetcher rails fetch_pages:fetch URLS="http://example.com/,https://kwejk.pl"`
 
 ## Pages known to save well:
 1.  https://example.com
