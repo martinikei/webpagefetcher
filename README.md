@@ -18,7 +18,9 @@ https://github.com/martinikei/webpagefetcher/blob/main/app/models/web_page.rb
 
 `rails fetch_pages:fetch URLS="https://example.com/,https://kwejk.pl"`
 
-**Also, you can run is as a Docker container. Build it this way:**
+**Also, you can run it as a Docker container. Build it this way:**
+
+Navigate to the directory and then run:
 
 `docker build -t webpagefetcher .`
 
