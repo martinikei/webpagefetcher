@@ -2,6 +2,18 @@
 
 ## This is a Webpage Fetcher assignment program
 
+**The code fetching the pages is found here:**
+
+/lib/tasks/fetch_pages.rake
+
+https://github.com/martinikei/webpagefetcher/blob/main/lib/tasks/fetch_pages.rake
+
+**The model of the webpage is found here:**
+
+/app/models/web_page.rb
+
+https://github.com/martinikei/webpagefetcher/blob/main/app/models/web_page.rb
+
 **You can use it with this command:**
 
 `rails fetch_pages:fetch URLS="https://example.com/,https://kwejk.pl"`
